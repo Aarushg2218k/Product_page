@@ -1,0 +1,19 @@
+{
+  "name": "Apple iPhone 13 (128GB)",
+  "description": "The device features a 15 cm (6.1-inch) Super Retina XDR display and a Cinematic mode that adds depth and shifts focus automatically in videos. It has a dual 12MP Wide and Ultra Wide camera system with Photographic Styles, Night mode, and 4K Dolby Vision HDR recording. The 12MP front camera also supports Night mode and 4K recording. Powered by the fast A15 Bionic chip, it ensures smooth performance.",
+  "price": 49990,
+  "availability": "In Stock",
+  "images": {
+    "blue": ["pics/Propic1.jpg", "pics/Propic2.jpg", "pics/Propic3.jpg"],
+    "red": ["pics/Propic11.jpg", "pics/Propic12.jpg", "pics/Propic13.jpg"]
+  },
+  "reviews": [
+    { "id": 1, "user": "John Doe", "rating": 5, "comment": "Excellent product!" },
+    { "id": 2, "user": "Jane Smith", "rating": 4, "comment": "Very good, but a bit pricey." }
+  ],
+  "similarProducts": [
+    { "id": 1, "name": "OnePlus 12R (256GB) - Iron Gray", "image": "pics/Propic111.jpg", "price": 45998 },
+    { "id": 2, "name": "Xiaomi 14 CIVI (256GB) - Shadow Black ", "image": "pics/Propic112.jpg", "price": 38450 },
+    { "id": 2, "name": "Apple iPhone 16 Plus (128 GB) - Black", "image": "pics/Propic113.jpg", "price":89900 }
+  ]
+}
